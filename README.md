@@ -8,7 +8,7 @@
 - **Backend:** Python, Django
 
 ## 🛠️ Featured Projects
-- [gitkaken](https://github.com/Azd325/gitkaken): Streamline your workflow with gitkaken!
+- [gitkaken](https://github.com/Azd325/gitkraken): Streamline your workflow with gitkaken!
 - [dotfiles](https://github.com/Azd325/dotfiles): My customized dotfiles for productivity and efficiency.
 
 ## 💡 About Me
