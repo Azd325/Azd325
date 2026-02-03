@@ -9,7 +9,6 @@
 
 ## 🛠️ Featured Projects
 - [gitkraken](https://github.com/Azd325/gitkraken): Streamline your workflow with gitkaken!
-- [dotfiles](https://github.com/Azd325/dotfiles): My customized dotfiles for productivity and efficiency.
 
 ## 💡 About Me
 - I love working on both backend and frontend projects, blending powerful logic with sleek designs.
